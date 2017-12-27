@@ -1,2 +1,2 @@
 # JavaStudy
-###Java의 정석
+Java의 정석
