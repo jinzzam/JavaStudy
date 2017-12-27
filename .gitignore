@@ -1,5 +1,4 @@
-/.metadata/
-/
-.recommenders/
-.classpath
-.project
+#ignore
+
+.metadata
+.recommenders
