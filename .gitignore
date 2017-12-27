@@ -1,8 +1,7 @@
 #ignore
 
-.metadata
-.recommenders
+/*.metadata
+/*.recommenders
 
-/bin/
-.classpath
-.project
+*.classpath
+*.project
