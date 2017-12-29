@@ -26,5 +26,9 @@ public class DrawShape extends Frame {
 		setSize(300, 300);
 		setVisible(true);
 	}
-
+	
+	public DrawShape() {
+		
+	}
+	//왜 실행이 되지 않을까 ㅠㅠ?
 }
