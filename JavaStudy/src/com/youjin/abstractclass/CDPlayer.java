@@ -19,17 +19,17 @@ public class CDPlayer extends Player{
 	}
 	
 	int nextTrack() {
-		System.out.println("다음 트랙은" + ++this.currentTrack + "번 입니다.");
-		return currentPos;
+		System.out.println("다음 트랙은" + ++currentTrack + "번 입니다.");
+		return currentTrack;
 	}
 	
 	int preTrack() {
-		System.out.println("이전 트랙은 " + --this.currentTrack + "번 입니다.");
+		System.out.println("이전 트랙은 " + --currentTrack + "번 입니다.");
 		return currentTrack;
 	}
 	
 	int currTrack() {
-		System.out.println("현재 트랙은 " + this.currentTrack + "번 입니다.");
+		System.out.println("현재 트랙은 " + currentTrack + "번 입니다.");
 		return currentTrack;
 	}
 }

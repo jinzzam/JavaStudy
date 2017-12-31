@@ -5,7 +5,7 @@ abstract public class Player {
 	int currentPos;
 	
 	Player(){	//추상클래스도 생성자가 있어야 한다.
-		pause = true;
+		pause = false;
 		currentPos = 0;
 	}
 	
