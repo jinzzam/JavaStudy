@@ -15,6 +15,7 @@ public class ExceptionEx15 {
 		System.out.println(f.getName() + " 파일이 성공적으로 생성되었습니다.");
 	}
 
+	@SuppressWarnings("finally")
 	static File createFile(String fileName) {
 		try {
 			if(fileName == null || fileName.equals(""))
