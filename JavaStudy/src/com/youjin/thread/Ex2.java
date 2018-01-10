@@ -3,7 +3,7 @@ package com.youjin.thread;
 public class Ex2 {
 	public static void main(String[] args) throws Exception{
 		Ex2 t1 = new Ex2();
-		t1.start();
+//		t1.start();			//error
 	}
 }
 
