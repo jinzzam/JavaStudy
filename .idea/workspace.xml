@@ -2,201 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d729cbe9-6caf-45f8-9aa8-20a3c42cb92c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Apply/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/abstractclass/CDPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/abstractclass/DropShip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/abstractclass/Marine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/abstractclass/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/abstractclass/PlayerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/abstractclass/Tank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/abstractclass/Unit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/abstractclass/UnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/anonymous/EventHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/anonymous/InnerEx6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/anonymous/InnerEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/anonymous/InnerEx8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/anonymous/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/anonymous/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/array/CloneArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/array/CopyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/arraylist/Ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/arraylist/Ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/arraylist/Vector1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/charsequence/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/ChainedExceptionEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/CloseException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/CloseableResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/DeepSleepException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/Divide.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/EatPoisonException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/ExceptionEx15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/ExceptionEx17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/InstallException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/MemoryException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/SpaceException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/TryWithResourceEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/exception/WorkException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/generics/MyArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/BookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/CaptionTv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/CaptionTvTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Child2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Deck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/DeckTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/DrawShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/SuperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/SuperTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Translation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/inheritance/Tv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/BlockTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/DocumentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/InitBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/InstInit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/ProductTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/StaticBlockTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/initialization/explicit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/innerclass/InnerEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/innerclass/InnerEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/innerclass/InnerEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/innerclass/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/innerclass/Outter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/input/Compare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/input/InputEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/instance/Tv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/instance/TvTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/A2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/AirUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Attackable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/B2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/DropShip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Fightable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Fighter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/FighterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/GroundUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/HTMLParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/I.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/I2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/IVCR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/InstanceManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/InterfaceTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Jin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Marine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Movable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Parseable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/ParserManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/ParserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Repairable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/RepairbleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/SCV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/TVCR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Tank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Tv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Unit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/Unit2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/VCR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/XMLParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/interfaceclass/interfaceTest3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/iterator/Ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/iterator/Ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/iterator/ListIterator1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/iterator/MyVector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/iterator/MyVector2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/label/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/linkedlist/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/method/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/method/MathCallMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/method/MyMath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/method/MyMathTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/ClassEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/CloneEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/DoubleWrapString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/EqualTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/GCTEst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/HashCodeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/People.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/PeopleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/WrapString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/object/WrapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/overriding/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/overriding/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/parameter/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/parameter/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/parameter/Primitive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/parameter/Reference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Audio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/BindingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Buyer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/CastingTest1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/CastingTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/CastingTest2modify.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/FireEngine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/PolyArgumentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/PolyArgumentTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/PolyArgumentTest3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/ShapeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/ShapeTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/ShapeTypeCasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/StringTokenizerEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/polymorphism/Tv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/stackqueue/Ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Daemon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex1Thread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex2Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex7_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex8_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Ex8_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Interrupt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/ThreadA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/ThreadB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread/Yield.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread2/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread2/ThreadA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread2/ThreadB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread3/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/thread3/PollingPlace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/usageClass/StringTokenizerEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/wrapper/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Apply/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Apply/Fruit.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -206,25 +12,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="InnerEx6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Reference/anonymous/InnerEx6.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Fruit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Apply/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="472">
+              <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#333#340#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#543#550#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#334#341#0" expanded="true" />
+                <element signature="e#544#551#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -273,7 +70,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -321,7 +118,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,43 +198,45 @@
       <option name="presentableId" value="Default" />
       <updated>1523449085229</updated>
       <workItem from="1523449086693" duration="1848000" />
+      <workItem from="1523452103867" duration="165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1848000" />
+    <option name="totallyTimeSpent" value="2013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="668" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,24 +246,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Reference/anonymous/InnerEx6.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Apply/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Apply/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#333#340#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#543#550#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#334#341#0" expanded="true" />
+            <element signature="e#544#551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaStudy/src/com/jinzzam/Apply/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#334#341#0" expanded="true" />
+            <element signature="e#544#551#0" expanded="true" />
           </folding>
         </state>
       </provider>
