@@ -1,4 +1,4 @@
-package com.jinzzam.swing.tabbed-panel;
+package com.jinzzam.swing.tabbed;
 
 import javax.swing.*;
 import java.awt.*;
