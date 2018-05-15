@@ -7,3 +7,6 @@ JavaStudy/.classpath
 
 JavaStudy/.project
 JavaStudy/.settings
+
+.idea
+*.iml
